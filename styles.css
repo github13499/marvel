@@ -1,0 +1,100 @@
+body {
+    background-color: #413543;
+}
+
+.container-fluid {
+    padding: 3% 10%;
+    margin-bottom: 70px;
+}
+
+/* Header Section */
+
+.navbar {
+    padding-bottom: 70px;
+}
+
+.marvel-logo {
+    width: 200px;
+}
+
+.nav-link {
+    color: #CE5959;
+    font-size: 1.4rem;
+    font-family: 'Pacifico', cursive;
+}
+
+.nav-item {
+    padding: 0 25px;
+}
+
+/* Spiderman Section */
+
+.spiderman-quote {
+    padding-top: 120px;
+    color: red;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.spiderman-quote-writer {
+    color: red;
+    font-family: 'Delicious Handrawn', cursive;
+    padding-left: 365px;
+}
+
+.spiderman-img {
+    width: 400px;
+    margin-left: 70px;
+}
+
+/* Antman section */
+
+.antman-bg {
+    padding-top: 150px;
+    background-color: #B3005E;
+}
+
+.antman-img {
+    width: 500px;
+    padding-right: 70px;
+    margin-bottom: 40px;
+}
+.antman-quote {
+    color: yellow;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.antman-quote-writer {
+    color: yellow;
+    font-family: 'Delicious Handrawn', cursive;
+    padding-left: 420px;
+}
+
+.antman-text {
+    margin-top: 90px;
+}
+
+/* Ironman section */
+
+.ironman-bg {
+    padding-top: 150px;
+    
+}
+
+.ironman-quote {
+    color: red;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.ironman-quote-writer {
+    color: red;
+    font-family: 'Delicious Handrawn', cursive;
+    padding-left: 420px;
+}
+
+.ironman-img {
+    width: 300px;
+    margin-left: 90px;
+}
+.ironman-text {
+    margin-top: 90px;
+}
